@@ -30,9 +30,16 @@ NLP for computer is defined as a way to decipher, analyse, and understand a huma
 [For better understanding of RNN's](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
 <!-- ### Neural Machine Translation using RNNs -->
+Miscellaneous: 
+
+- Attention mechanism
+- Sequence transduction model
+- Transformer
+- 
+
 To be covered:
 
 - Recrusive Routing Networks
-- BERT
+- [BERT]()
 - XLNET
 - Knowledge Distillation for sequence models.
