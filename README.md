@@ -43,5 +43,6 @@ NLP for computer is defined as a way to decipher, analyse, and understand a huma
 
 - Recrusive Routing Networks
 - [BERT]()
+- GPT and GPt-2
 - XLNET
 - Knowledge Distillation for sequence models.
