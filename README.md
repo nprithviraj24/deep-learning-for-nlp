@@ -44,5 +44,6 @@ To be precise, it predicts the language a surname come from. This is a official 
 
 - Recrusive Routing Networks
 - [BERT]()
+- GPT and GPt-2
 - XLNET
 - Knowledge Distillation for sequence models.
